@@ -16,4 +16,4 @@ for r in f:
 
 media=tot/cont
 print('Total signals: ', cont)
-print('Signals average: ', media)
+print('Signals average: ', format(media,'.2f'))
