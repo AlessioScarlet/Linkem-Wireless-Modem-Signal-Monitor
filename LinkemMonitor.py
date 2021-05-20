@@ -60,7 +60,7 @@ while 0<1:
         stringa=('Signal: '+ str(cont)+ '/5 ' + '--- '+ time.ctime() + '\n')
         with open('logs.txt', mode='a') as f:
             f.write(stringa)
-        print('Segnale: ',cont,'/ 5')
+        print('Signal: ',cont,'/ 5')
     driver.close()
     novemin=0
 #segnale2=driver.find_element_by_xpath('//*[@id="lte_signal"]')
