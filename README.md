@@ -6,7 +6,7 @@ This python program will monitor and log your wireless linkem modem signal every
 
 # How to install:
 
-You will need to install the [requests](https://pypi.org/project/selenium/ "requests") library, by typing in your console:
+You will need to install the [selenium](https://pypi.org/project/selenium/ "selenium") library, by typing in your console:
 
 `pip install selenium`
 
